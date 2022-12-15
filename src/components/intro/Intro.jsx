@@ -38,8 +38,7 @@ export default function Intro() {
           </h3>
         </div>
         <a href='#portfolio'>
-          <img  src={down} alt="/"/>
-         </a>
+          <img  src={down} alt="/"/>      </a>
        </div>
     </div>
   )
